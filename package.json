@@ -1,0 +1,16 @@
+{
+  "name": "myresume",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "resume": "resume"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "resume-cli": "^3.0.4"
+  }
+}

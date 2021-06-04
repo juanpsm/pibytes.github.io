@@ -1,0 +1,92 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Juan Pablo Sánchez Magariños",
+    "label": "Programmer",
+    "image": "",
+    "email": "juanpsanchezm@gmail.com",
+    "phone": "(+54) 9221-5524681",
+    "summary": "Estudiante de Licenciatura en Informática de la Universidad Nacional de La Plata. También soy técnico en reparación de PC con 10 años de experiencia. Me considero capaz de aprender de forma constante y responsable, pro-activo y con gran capacidad de adaptación a los cambios, siempre buscando obtener el mejor resultado posible para mi equipo. Me gustan los desafíos y resolver conflictos aportando ideas innovadoras. Apasionado por la aventura, estoy dispuesto a emprender nuevos destinos.",
+    "location": {
+      "address": "61 425",
+      "postalCode": "1900",
+      "city": "La Plata",
+      "countryCode": "AR",
+      "region": "Buenos Aires"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "juanpsm",
+        "url": "https://www.linkedin.com/in/juanpsm/"
+      },
+      {
+        "network": "GitHub",
+        "username": "pibytes",
+        "url": "https://github.com/pibytes"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Mikroways",
+      "location": "La Plata, Argentina",
+      "description": "soluciones que revolucionan",
+      "position": "DevOps Engineer",
+      "url": "http://mikroways.net",
+      "startDate": "2021-06-01",
+      "summary": "",
+      "highlights": [
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "National University of La Plata",
+      "url": "https://www.unlp.edu.ar/",
+      "area": "Computer Sciences",
+      "studyType": "Degree",
+      "startDate": "2014-04-01",
+      "score": "4.0",
+      "courses": [
+        "DB1101 - Basic SQL",
+        "CS2011 - Java Introduction"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Advanced"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Wildlife",
+      "keywords": [
+        "Ferrets",
+        "Unicorns"
+      ]
+    }
+  ],
+  "meta": {
+    "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
+    "version": "v0.0.1",
+    "lastModified": "2021-06-04T13:57:00"
+  }
+}
