@@ -11,7 +11,7 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "elegant": "^0.9.9",
+    "jsonresume-theme-elegant": "^1.16.1",
     "resume-cli": "^3.0.4"
   }
 }
